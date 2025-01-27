@@ -12,15 +12,15 @@ allenzhangsg/allenzhangsg is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-## 👋 Hello！this is Allen
-I'm a senior data engineer who used to work for Tesla and Meituan.
-My professional skills include data engineering, software development, and a tip of DevOps area.
+## 👋 Hello！ This is Allen
+I'm a software engineer at Connexion Mobility and a senior data engineer who used to work for Tesla and Meituan.
+My professional skills include data engineering, software development, and a tip in the DevOps area.
 
 I love the software industry because I find it charming. I've started contributing to the community 
 after many years of learning from it. 
 
-If you find my projects useful, feel free to leave a star⭐.
+If you find my projects useful, please leave a star⭐.
 
-You can also reach out to me via [zhangsg2013@gmail.com](mailto:zhangsg2013@gmail.com).
+You can also contact me via [allenzhangsg@gmail.com](mailto:allenzhangsg@gmail.com).
 
 Good luck!
