@@ -1,15 +1,12 @@
 ## 👋 Hi, I'm Allen
 
-Software Engineer at **Connexion Mobility**
+Senior Data Engineer at **XERO**
 
-Former Senior Data Engineer at Tesla & Meituan
+Former Engineer at Connexion, Tesla, and Meituan
 
 I build AI products.
 
 🚀 **Current Project**
-
-[Sigmise — AI Meeting Assistant](https://sigmise.com)
-A cross-platform desktop application that transforms your meetings into actionable insights through real-time transcription, translation, and AI-powered summarization.
 
 [Voice Input Cli](https://github.com/allenzhangsg/voice-input)
 Your open-source Typeless-like voice input Cli.
